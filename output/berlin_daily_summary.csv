@@ -1,0 +1,8 @@
+date,day_name,avg_temp_c,max_temp_c,min_temp_c,avg_feels_like_c,avg_humidity_pct,avg_wind_kmh,max_wind_kmh,max_rain_chance_pct,avg_rain_chance_pct,dominant_condition
+2026-10-28,Wednesday,10.1,13.1,6.9,8.6,86.0,7.3,11.8,80,14.6,Partly Cloudy
+2026-10-29,Thursday,8.8,10.6,6.4,7.4,88.2,4.8,7.7,3,0.5,Partly Cloudy
+2026-10-30,Friday,8.3,10.3,6.1,6.9,93.1,4.9,7.4,0,0.0,Partly Cloudy
+2026-10-31,Saturday,9.5,12.3,7.3,7.4,80.9,8.3,10.6,3,1.0,Partly Cloudy
+2026-11-01,Sunday,7.0,9.7,4.9,5.0,84.9,4.3,7.2,5,1.7,Partly Cloudy
+2026-11-02,Monday,6.1,9.3,3.9,3.8,81.2,4.3,7.4,5,1.9,Partly Cloudy
+2026-11-03,Tuesday,6.3,9.5,3.8,4.4,88.8,4.6,6.3,5,4.1,Partly Cloudy
