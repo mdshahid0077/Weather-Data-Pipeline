@@ -50,3 +50,13 @@ exports results to CSV and Excel formats.
 - Weekly weather summary report
 
 ## 📁 Output Files
+- berlin_weather_data.csv (168 rows, 11 columns)
+- berlin_daily_summary.csv (7 days summary)
+- berlin_weather_report.xlsx (4 sheets)
+
+## 👨‍💻 Author
+**Mohammad Shahid**
+- LinkedIn: linkedin.com/in/mdshahid0077
+- GitHub: github.com/mdshahid0077
+- Email: mdshahid.analyst@gmail.com
+
